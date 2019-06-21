@@ -9,6 +9,6 @@ Sping Boot + thymeleaf + Spring Data JPA 集成SQLServer示例
 spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
 spring.datasource.url=jdbc:sqlserver://localhost:1433;DatabaseName=test
 spring.datasource.username=sa
-spring.datasource.password=123456
+spring.datasource.password=
 ```
 3. 启动项目，在浏览器中输入`http://localhost:8088`
