@@ -1,4 +1,4 @@
-# spring-boot-mssql
+# Spring-boot-mssql 集成示例
 Sping Boot + thymeleaf + Spring Data JPA 集成SQLServer示例
 ## 快速部署
 * 1.clone项目到本地`git@github.com/yoloyl/spring-boot-mssql.git`
