@@ -9,4 +9,4 @@ spring.datasource.url=jdbc:sqlserver://localhost:1433;DatabaseName=test
 spring.datasource.username=sa
 spring.datasource.password=123456
 ```
-* 3.启动项目，在浏览器中输入`http://localhost:8080`
+* 3.启动项目，在浏览器中输入`http://localhost:8088`
